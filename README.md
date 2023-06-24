@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I'm Manav
+- 👋 Hi, I'm Manav Jain
 - 👨‍💻 I am interested in all things security
 - 🌱 I’m currently learning about network security📡
 - 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/manavbjain/)
