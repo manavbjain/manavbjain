@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm Manav Jain
 - 👨‍💻 I am interested in all things security
 - 🌱 I’m currently learning about network security📡
+- 🔭 In my spare time I like creating and solving CTFs
 - 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/manavbjain/)
