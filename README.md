@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 👋 Hi, I'm Manav
+- 😄 Pronouns: he/him/his
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Manav Jain
+- 😄 Pronouns: he/him/his
 - 👨‍💻 I am interested in all things security
-- 🌱 I’m currently learning about network security📡
+- 🌱 I’m currently learning about wireless security📡
 - 🔭 In my free time I like creating and solving CTFs
 - 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/manavbjain/)
