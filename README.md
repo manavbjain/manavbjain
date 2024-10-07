@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - 👨‍💻 I am interested in all things security
 - 🌱 I’m currently learning about wireless security📡
-- 🔭 In my free time I like creating and solving CTFs
+- 🔭 In my free time I like creating and solving Capture-the-Flag (CTF) challenges
 - 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/manavbjain/)
